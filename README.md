@@ -1,5 +1,5 @@
 # instrument-classifier
-Uses machine learning to classify audio samples by musical instrument.
+Uses tree-based machine learning to classify audio samples by musical instrument.
 
 ### Data Sources
 
